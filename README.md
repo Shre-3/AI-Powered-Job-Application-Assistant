@@ -1,6 +1,6 @@
 # AI-Powered Job Application Assistant 🤖
 
-AI-powered job application assistant — tailored CVs, cover letters, and application tracking, all in one place.
+AI-powered job application assistant: tailored CVs, cover letters, and application tracking, all in one place.
 
 ## Tech Stack
 
